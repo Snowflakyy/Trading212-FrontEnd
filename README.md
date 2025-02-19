@@ -1,4 +1,12 @@
 # FrontEnd implementation:
+##prerequisites:
+### Run to `localhost:8080/api/v1/wallet` POST method with body
+``` typescript 
+{
+walletName: "your- name",
+walletBalance:"your-balance
+}
+```
 - zustand for store-management,
 - styled-components for styling,
 - customly defined components
